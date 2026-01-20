@@ -1,0 +1,21 @@
+customer_id,name,email,phone,address,payment_method
+1,John Doe,john1@hotmail.com,,"95 Main St, City 8",UPI
+2,Jane Smith,jane2@outlook.com,9558765521,"22 Main St, City 3",
+3,Robert Brown,robert3@hotmail.com,9456041729,"177 Main St, City 5",Net Banking
+4,Linda White,linda4@hotmail.com,9792231526,"78 Main St, City 3",
+5,Michael Green,michael5@outlook.com,9536496600,"28 Main St, City 5",UPI
+6,Emily Johnson,,9883781479,"54 Main St, City 6",Credit Card
+7,David Wilson,,9773993630,"113 Main St, City 8",Debit Card
+8,Sophia Miller,sophia8@outlook.com,9057322062,"136 Main St, City 1",PayPal
+9,James Taylor,james9@yahoo.com,9250902249,"160 Main St, City 5",PayPal
+10,Olivia Davis,,9655822483,"33 Main St, City 7",UPI
+11,Daniel Thomas,daniel11@hotmail.com,9042475955,"141 Main St, City 5",Debit Card
+12,Isabella Moore,isabella12@outlook.com,,"140 Main St, City 4",UPI
+13,Matthew Martin,matthew13@outlook.com,9882003372,"118 Main St, City 3",UPI
+14,Mia Jackson,mia14@hotmail.com,9012223780,"35 Main St, City 10",
+15,Ethan Lee,ethan15@outlook.com,,"74 Main St, City 5",Credit Card
+16,Amelia Harris,amelia16@gmail.com,9438816950,"26 Main St, City 6",PayPal
+17,Alexander Clark,alexander17@hotmail.com,9124158930,"97 Main St, City 8",Debit Card
+18,Charlotte Lewis,,9744099132,"14 Main St, City 8",PayPal
+19,Henry Walker,henry19@yahoo.com,9560954126,"43 Main St, City 4",UPI
+20,Ava Hall,ava20@hotmail.com,9859003609,"81 Main St, City 3",Credit Card
